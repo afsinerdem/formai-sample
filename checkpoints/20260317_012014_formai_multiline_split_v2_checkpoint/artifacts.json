@@ -1,54 +1,54 @@
 {
   "checkpoint": "20260317_012014_formai_multiline_split_v2_checkpoint",
   "archived_at": "2026-03-26T15:43:21.694230",
-  "archive_root": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint",
+  "archive_root": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint",
   "items": [
     {
       "kind": "file",
       "name": "field_list.txt",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/field_list.txt",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/field_list.txt",
       "size_bytes": 740,
       "sha256": "99c5ccc56b91d6c9d4e74a3c7576eb78c157773b08dd4a2d3c42c626f9f132ab"
     },
     {
       "kind": "file",
       "name": "ornek_pipeline_fillable_split_v2_filled_demo.pdf",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/ornek_pipeline_fillable_split_v2_filled_demo.pdf",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/ornek_pipeline_fillable_split_v2_filled_demo.pdf",
       "size_bytes": 21929,
       "sha256": "613608a76aa9e12a7e85b6e52b8b37fe1b488f79f71db6fee3949e24580995cc"
     },
     {
       "kind": "file",
       "name": "test_results.txt",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/test_results.txt",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/test_results.txt",
       "size_bytes": 1558,
       "sha256": "a477196996f2f73aebaeb51680268df76756f4cb3fadf10b6266727d5bcc832b"
     },
     {
       "kind": "file",
       "name": "project_snapshot.tar.gz",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/project_snapshot.tar.gz",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/project_snapshot.tar.gz",
       "size_bytes": 5288568,
       "sha256": "e0f743dd2f9d8023c4b1e42a87ea9ca90b5ded45bfa7d9267f05451cb48b291e"
     },
     {
       "kind": "file",
       "name": "ornek_pipeline_fillable_split_v2.pdf",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/ornek_pipeline_fillable_split_v2.pdf",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/ornek_pipeline_fillable_split_v2.pdf",
       "size_bytes": 20055,
       "sha256": "caaf8821cbc99c29cabedb9d1800fc55239d5fb1cf5f56c102a9b4ebee53e443"
     },
     {
       "kind": "file",
       "name": "ornek_pipeline_fillable_split_v2_filled_demo_page1.png",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/ornek_pipeline_fillable_split_v2_filled_demo_page1.png",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/ornek_pipeline_fillable_split_v2_filled_demo_page1.png",
       "size_bytes": 92787,
       "sha256": "69f4e2a09edc99d671fe78b0c6c1ace7a7c72d522d51042ccfc948c63fd1ba37"
     },
     {
       "kind": "file",
       "name": "project_snapshot.sha256",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/project_snapshot.sha256",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_012014_formai_multiline_split_v2_checkpoint/project_snapshot.sha256",
       "size_bytes": 155,
       "sha256": "336169d98f4b48e0197db0d146812ff7f89684e92cb6875033a9aa90ae25fdaf"
     }

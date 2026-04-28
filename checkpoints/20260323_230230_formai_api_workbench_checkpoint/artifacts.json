@@ -1,26 +1,26 @@
 {
   "checkpoint": "20260323_230230_formai_api_workbench_checkpoint",
   "archived_at": "2026-03-26T15:43:21.781656",
-  "archive_root": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260323_230230_formai_api_workbench_checkpoint",
+  "archive_root": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260323_230230_formai_api_workbench_checkpoint",
   "items": [
     {
       "kind": "file",
       "name": "test_results.txt",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260323_230230_formai_api_workbench_checkpoint/test_results.txt",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260323_230230_formai_api_workbench_checkpoint/test_results.txt",
       "size_bytes": 15622,
       "sha256": "5dd206179280135095bee8e64d9f9f82468cc6abcb155e78d3b6a5b1325bd133"
     },
     {
       "kind": "file",
       "name": "project_snapshot.tar.gz",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260323_230230_formai_api_workbench_checkpoint/project_snapshot.tar.gz",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260323_230230_formai_api_workbench_checkpoint/project_snapshot.tar.gz",
       "size_bytes": 86655573,
       "sha256": "7efddecad3fe3f235da66db7975fe1e5c469fd064c4fad3ea9d581353df5b484"
     },
     {
       "kind": "file",
       "name": "project_snapshot.sha256",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260323_230230_formai_api_workbench_checkpoint/project_snapshot.sha256",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260323_230230_formai_api_workbench_checkpoint/project_snapshot.sha256",
       "size_bytes": 150,
       "sha256": "d78bcd2fa8c494d8f7125f1adde67aaf398dc13fa94d629fe7e513f1d382ede8"
     }

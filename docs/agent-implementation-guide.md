@@ -231,7 +231,7 @@ class PaddleOCRReader:
 ### Doğrulama
 
 ```bash
-cd /Users/emirhanfirtina/Desktop/yeniP
+cd <project-root>
 # paddleocr kurulu değilse is_available() False döner, exception fırlatmaz
 PYTHONPATH=src .venv311/bin/python -c "
 from formai.ocr.paddleocr import PaddleOCRReader
@@ -665,7 +665,7 @@ if __name__ == "__main__":
 ### Test Çalıştırma
 
 ```bash
-cd /Users/emirhanfirtina/Desktop/yeniP
+cd <project-root>
 env PYTHONPATH=src .venv311/bin/python -m pytest tests/test_ocr_paddleocr.py -v
 ```
 
@@ -1767,7 +1767,7 @@ if __name__ == "__main__":
 ### 1. Tüm testleri çalıştır
 
 ```bash
-cd /Users/emirhanfirtina/Desktop/yeniP
+cd <project-root>
 env PYTHONPATH=src .venv311/bin/python -m unittest discover -s tests -v 2>&1 | tail -20
 # Beklenen: 124+ tests OK, 0 failures
 ```

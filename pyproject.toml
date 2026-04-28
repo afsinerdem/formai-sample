@@ -9,7 +9,7 @@ description = "Sub-agent based intelligent form processing pipeline for PDF temp
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
-  { name = "Codex" }
+  { name = "Yunus Afşin ERDEM" }
 ]
 dependencies = [
   "Pillow>=10.0.0",

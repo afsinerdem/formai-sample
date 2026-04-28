@@ -1,75 +1,75 @@
 {
   "checkpoint": "20260317_232512_formai_natural_form_polish_v23_checkpoint",
   "archived_at": "2026-03-26T15:43:21.733613",
-  "archive_root": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint",
+  "archive_root": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint",
   "items": [
     {
       "kind": "file",
       "name": "ornek_real_pipeline_fillable_v23.pdf",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/ornek_real_pipeline_fillable_v23.pdf",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/ornek_real_pipeline_fillable_v23.pdf",
       "size_bytes": 20807,
       "sha256": "19bf55179bed9ab69abc78472f9551b4d9a3856e74b0518c3bdc627984155d26"
     },
     {
       "kind": "file",
       "name": "ornek_real_pipeline_final_v23_zoom.png",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/ornek_real_pipeline_final_v23_zoom.png",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/ornek_real_pipeline_final_v23_zoom.png",
       "size_bytes": 115906,
       "sha256": "f95667e5d37612786fade4de2ca9ee641e809722df2389d9b19f382b9dc0250d"
     },
     {
       "kind": "file",
       "name": "ornek_real_pipeline_result_v23.json",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/ornek_real_pipeline_result_v23.json",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/ornek_real_pipeline_result_v23.json",
       "size_bytes": 48251,
       "sha256": "868a9a132734d63be6ca86a9f438876229ab3a2b28470b6e2f029e49c92417da"
     },
     {
       "kind": "file",
       "name": "ornek_real_pipeline_final_v23_page1.png",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/ornek_real_pipeline_final_v23_page1.png",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/ornek_real_pipeline_final_v23_page1.png",
       "size_bytes": 148558,
       "sha256": "d3e15643701b2c1b0219c7abff18136842b860a0d551cf9e9bd75893a839cb14"
     },
     {
       "kind": "file",
       "name": "test_results.txt",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/test_results.txt",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/test_results.txt",
       "size_bytes": 11488,
       "sha256": "10773da6024033d019dc141c5f48511971d5140d0d84f66efcc72c7fc321e325"
     },
     {
       "kind": "file",
       "name": "project_snapshot.tar.gz",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/project_snapshot.tar.gz",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/project_snapshot.tar.gz",
       "size_bytes": 5183442,
       "sha256": "10c81a3a6bdb65558ce16793c61d91bdf6c0918c8576fed1f2d5d9749e9a0079"
     },
     {
       "kind": "file",
       "name": "benchmark_summary.json",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/benchmark_summary.json",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/benchmark_summary.json",
       "size_bytes": 866,
       "sha256": "ad2a6d9100966283fddddc67e0ef081c87a86b4b58e6d1667e67eaf93b1c0296"
     },
     {
       "kind": "file",
       "name": "ornek_real_pipeline_final_v23.pdf",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/ornek_real_pipeline_final_v23.pdf",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/ornek_real_pipeline_final_v23.pdf",
       "size_bytes": 41895,
       "sha256": "2bc523c92b602dda9cadb323c599bf580fc9194cedf7e88453b5790c2f0e8dde"
     },
     {
       "kind": "file",
       "name": "benchmark_worst_cases.md",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/benchmark_worst_cases.md",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/benchmark_worst_cases.md",
       "size_bytes": 2159,
       "sha256": "580d725e4033442c9289acfc94cad0b02022c2a568c59eae7750f9ab59f1108f"
     },
     {
       "kind": "file",
       "name": "project_snapshot.sha256",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/project_snapshot.sha256",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_232512_formai_natural_form_polish_v23_checkpoint/project_snapshot.sha256",
       "size_bytes": 196,
       "sha256": "b7da22e796ee06fb28737189bdf3157158809153a5718f356ac8b21759908611"
     }

@@ -1,61 +1,61 @@
 {
   "checkpoint": "20260317_185321_formai_readable_fit_checkpoint",
   "archived_at": "2026-03-26T15:43:21.705773",
-  "archive_root": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint",
+  "archive_root": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint",
   "items": [
     {
       "kind": "file",
       "name": "worst_cases.md",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/worst_cases.md",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/worst_cases.md",
       "size_bytes": 2159,
       "sha256": "580d725e4033442c9289acfc94cad0b02022c2a568c59eae7750f9ab59f1108f"
     },
     {
       "kind": "file",
       "name": "ornek_real_pipeline_result_v14.json",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/ornek_real_pipeline_result_v14.json",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/ornek_real_pipeline_result_v14.json",
       "size_bytes": 15440,
       "sha256": "d14b5dd6062b48ae5a96e4e34b7d6708c0215466232eb574ec5bb5f9b1c161e7"
     },
     {
       "kind": "file",
       "name": "test_results.txt",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/test_results.txt",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/test_results.txt",
       "size_bytes": 9976,
       "sha256": "2f16eccd1bc26077fc0020c677c9978958c48813b3bfe962bb36999fef9b906c"
     },
     {
       "kind": "file",
       "name": "project_snapshot.tar.gz",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/project_snapshot.tar.gz",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/project_snapshot.tar.gz",
       "size_bytes": 5176843,
       "sha256": "70361e79acb150c73f88eb522b25a3fdda44a736ffadbf05c022adac5f99e47c"
     },
     {
       "kind": "file",
       "name": "ornek_real_pipeline_final_v14.pdf",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/ornek_real_pipeline_final_v14.pdf",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/ornek_real_pipeline_final_v14.pdf",
       "size_bytes": 28334,
       "sha256": "e4169d906c1b0f5719be0a3302c949c815163d1e210f14405a76f5f10aa69efd"
     },
     {
       "kind": "file",
       "name": "benchmark_summary.json",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/benchmark_summary.json",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/benchmark_summary.json",
       "size_bytes": 866,
       "sha256": "ad2a6d9100966283fddddc67e0ef081c87a86b4b58e6d1667e67eaf93b1c0296"
     },
     {
       "kind": "file",
       "name": "ornek_real_pipeline_final_v14_page1.png",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/ornek_real_pipeline_final_v14_page1.png",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/ornek_real_pipeline_final_v14_page1.png",
       "size_bytes": 164583,
       "sha256": "ef6d2adbf4a94134c764d0a210704456c93e6f3a95c3c54eca768a7a96df5b21"
     },
     {
       "kind": "file",
       "name": "project_snapshot.sha256",
-      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/project_snapshot.sha256",
+      "archived_path": "<project-root>/tmp/archive/20260326_154321/checkpoints/20260317_185321_formai_readable_fit_checkpoint/project_snapshot.sha256",
       "size_bytes": 149,
       "sha256": "5cfa1f83e9c08410e26a19d0a3143aa5623fb093ec06f56371a1d23105d5b832"
     }

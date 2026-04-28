@@ -18,10 +18,10 @@
 - API smoke: 9 tests OK
 
 ## Key Files
-- /Users/emirhanfirtina/Desktop/yeniP/web/app/globals.css
-- /Users/emirhanfirtina/Desktop/yeniP/web/components/marketing-home.tsx
-- /Users/emirhanfirtina/Desktop/yeniP/web/components/site-chrome.tsx
-- /Users/emirhanfirtina/Desktop/yeniP/web/components/workbench.tsx
-- /Users/emirhanfirtina/Desktop/yeniP/web/components/job-detail.tsx
-- /Users/emirhanfirtina/Desktop/yeniP/web/components/hash-scroll-manager.tsx
-- /Users/emirhanfirtina/Desktop/yeniP/web/components/site-anchor-link.tsx
+- <project-root>/web/app/globals.css
+- <project-root>/web/components/marketing-home.tsx
+- <project-root>/web/components/site-chrome.tsx
+- <project-root>/web/components/workbench.tsx
+- <project-root>/web/components/job-detail.tsx
+- <project-root>/web/components/hash-scroll-manager.tsx
+- <project-root>/web/components/site-anchor-link.tsx

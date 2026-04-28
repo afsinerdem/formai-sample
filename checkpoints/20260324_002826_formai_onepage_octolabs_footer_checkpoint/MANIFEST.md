@@ -18,8 +18,8 @@
 - Web build: next build OK
 
 ## Key Paths
-- /Users/emirhanfirtina/Desktop/yeniP/web/components/marketing-home.tsx
-- /Users/emirhanfirtina/Desktop/yeniP/web/components/site-chrome.tsx
-- /Users/emirhanfirtina/Desktop/yeniP/web/components/north-faq.tsx
-- /Users/emirhanfirtina/Desktop/yeniP/web/app/globals.css
-- /Users/emirhanfirtina/Desktop/yeniP/src/formai/api_jobs.py
+- <project-root>/web/components/marketing-home.tsx
+- <project-root>/web/components/site-chrome.tsx
+- <project-root>/web/components/north-faq.tsx
+- <project-root>/web/app/globals.css
+- <project-root>/src/formai/api_jobs.py
