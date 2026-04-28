@@ -1,0 +1,49 @@
+{
+  "checkpoint": "20260317_010138_formai_field_detection_checkpoint",
+  "archived_at": "2026-03-26T15:43:21.688493",
+  "archive_root": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_010138_formai_field_detection_checkpoint",
+  "items": [
+    {
+      "kind": "file",
+      "name": "field_list.txt",
+      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_010138_formai_field_detection_checkpoint/field_list.txt",
+      "size_bytes": 606,
+      "sha256": "e8d03df43af4f78b31825d17702c04823d0c0f494b442376194032847b732617"
+    },
+    {
+      "kind": "file",
+      "name": "test_results.txt",
+      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_010138_formai_field_detection_checkpoint/test_results.txt",
+      "size_bytes": 1271,
+      "sha256": "41cd49583b5a970b8ea7de3d983c7126e8bcfdbc1eff26a5c2e137637a23c3fa"
+    },
+    {
+      "kind": "file",
+      "name": "project_snapshot.tar.gz",
+      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_010138_formai_field_detection_checkpoint/project_snapshot.tar.gz",
+      "size_bytes": 5248732,
+      "sha256": "ca9f8e4ea079444c53fda68b27bb4532589309e2a82b09d9382c1a3a3ed6673a"
+    },
+    {
+      "kind": "file",
+      "name": "ornek_pipeline_fillable_latest_page1.png",
+      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_010138_formai_field_detection_checkpoint/ornek_pipeline_fillable_latest_page1.png",
+      "size_bytes": 61472,
+      "sha256": "bedce29c5d7b4d8449c2138b405b02c32b14ed1fe0bc287143a72d0832ab7140"
+    },
+    {
+      "kind": "file",
+      "name": "project_snapshot.sha256",
+      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_010138_formai_field_detection_checkpoint/project_snapshot.sha256",
+      "size_bytes": 152,
+      "sha256": "536e526215dde3874cf6d8908a7f427d378433b77fd0cab6ae30ddc3e2354a5e"
+    },
+    {
+      "kind": "file",
+      "name": "ornek_pipeline_fillable_latest.pdf",
+      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260317_010138_formai_field_detection_checkpoint/ornek_pipeline_fillable_latest.pdf",
+      "size_bytes": 19309,
+      "sha256": "b21f4402b8f42612041af11a161f7de6d65e9d229b19a3bb4db13e72fc2e55cd"
+    }
+  ]
+}

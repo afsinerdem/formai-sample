@@ -1,0 +1,74 @@
+[
+  {
+    "sample_id": "turkish_handwritten:test:claim_note_001",
+    "split": "test",
+    "page": {"width": 1240, "height": 1754, "style": "handwritten", "background": [244, 241, 235]},
+    "guides": [
+      {"points": [90, 200, 1110, 200], "color": [220, 216, 210]},
+      {"points": [90, 340, 1110, 340], "color": [220, 216, 210]},
+      {"points": [90, 480, 1110, 480], "color": [220, 216, 210]},
+      {"points": [90, 620, 1110, 620], "color": [220, 216, 210]}
+    ],
+    "content": [
+      {"text": "Ad Soyad: Mehmet Acar", "x": 96, "y": 142, "size": 33, "rotation": -2.7, "blur": 0.92, "color": [66, 68, 101]},
+      {"text": "Tarih: 23/03/2026", "x": 92, "y": 284, "size": 30, "rotation": 2.4, "blur": 0.82, "color": [66, 68, 101]},
+      {"text": "Telefon: 0(530) 414 88 10", "x": 94, "y": 424, "size": 30, "rotation": -2.8, "blur": 0.86, "color": [66, 68, 101]},
+      {"text": "Açıklama: Kargo kutusu teslimde ezik bulundu,\n teslim fişi ve tutanak aynı gün açıldı.", "x": 92, "y": 548, "size": 26, "rotation": 2.8, "blur": 0.95, "color": [66, 68, 101]}
+    ],
+    "expected_fields": [
+      {"key": "Ad Soyad", "value": "Mehmet Acar", "box": [90, 122, 560, 195]},
+      {"key": "Tarih", "value": "23/03/2026", "box": [90, 264, 500, 335]},
+      {"key": "Telefon", "value": "0(530) 414 88 10", "box": [90, 404, 670, 475]},
+      {"key": "Açıklama", "value": "Kargo kutusu teslimde ezik bulundu,\n teslim fişi ve tutanak aynı gün açıldı.", "kind": "multiline", "box": [90, 536, 1110, 630]}
+    ]
+  },
+  {
+    "sample_id": "turkish_handwritten:test:onboarding_note_002",
+    "split": "test",
+    "page": {"width": 1240, "height": 1754, "style": "handwritten", "background": [243, 240, 234]},
+    "guides": [
+      {"points": [90, 200, 1110, 200], "color": [220, 216, 210]},
+      {"points": [90, 340, 1110, 340], "color": [220, 216, 210]},
+      {"points": [90, 480, 1110, 480], "color": [220, 216, 210]},
+      {"points": [90, 620, 1110, 620], "color": [220, 216, 210]},
+      {"points": [90, 760, 1110, 760], "color": [220, 216, 210]}
+    ],
+    "content": [
+      {"text": "Çalışan: Derya Şen", "x": 95, "y": 142, "size": 33, "rotation": -3.0, "blur": 0.9, "color": [72, 63, 98]},
+      {"text": "Departman: İnsan Kaynakları / Operasyon", "x": 91, "y": 284, "size": 29, "rotation": 2.2, "blur": 0.88, "color": [72, 63, 98]},
+      {"text": "Başlangıç: 04.04.2026", "x": 93, "y": 424, "size": 30, "rotation": -2.0, "blur": 0.82, "color": [72, 63, 98]},
+      {"text": "Onay: No", "x": 92, "y": 564, "size": 31, "rotation": 2.0, "blur": 0.76, "color": [72, 63, 98]},
+      {"text": "Not: Ekipman teslim edildi,\n kimlik kartı, VPN ve giriş yetkisi bekleniyor.", "x": 91, "y": 686, "size": 26, "rotation": -2.7, "blur": 0.95, "color": [72, 63, 98]}
+    ],
+    "expected_fields": [
+      {"key": "Çalışan", "value": "Derya Şen", "box": [90, 122, 520, 195]},
+      {"key": "Departman", "value": "İnsan Kaynakları / Operasyon", "box": [90, 264, 930, 340]},
+      {"key": "Başlangıç", "value": "04.04.2026", "box": [90, 404, 560, 475]},
+      {"key": "Onay", "value": "No", "kind": "checkbox", "box": [90, 544, 280, 615]},
+      {"key": "Not", "value": "Ekipman teslim edildi,\n kimlik kartı, VPN ve giriş yetkisi bekleniyor.", "kind": "multiline", "box": [90, 672, 1110, 760]}
+    ]
+  },
+  {
+    "sample_id": "turkish_handwritten:test:service_note_003",
+    "split": "test",
+    "page": {"width": 1240, "height": 1754, "style": "handwritten", "background": [245, 242, 237]},
+    "guides": [
+      {"points": [90, 200, 1110, 200], "color": [220, 216, 210]},
+      {"points": [90, 340, 1110, 340], "color": [220, 216, 210]},
+      {"points": [90, 480, 1110, 480], "color": [220, 216, 210]},
+      {"points": [90, 620, 1110, 620], "color": [220, 216, 210]}
+    ],
+    "content": [
+      {"text": "Müşteri: Ece Aksoy", "x": 97, "y": 142, "size": 33, "rotation": 2.5, "blur": 0.88, "color": [46, 73, 106]},
+      {"text": "Adres: Feneryolu Mah. Huzur Cad. No 9 /\n Daire 2 Kadıköy", "x": 92, "y": 266, "size": 27, "rotation": -2.5, "blur": 0.86, "color": [46, 73, 106]},
+      {"text": "T.C. Kimlik No: 20000000012", "x": 93, "y": 424, "size": 30, "rotation": 2.1, "blur": 0.82, "color": [46, 73, 106]},
+      {"text": "Açıklama: Servis kaydı açıldı,\n kullanıcıya aynı gün geri dönüş yapılacak,\n e-posta notu sisteme işlendi.", "x": 91, "y": 544, "size": 25, "rotation": -2.3, "blur": 0.98, "color": [46, 73, 106]}
+    ],
+    "expected_fields": [
+      {"key": "Müşteri", "value": "Ece Aksoy", "box": [90, 122, 500, 195]},
+      {"key": "Adres", "value": "Feneryolu Mah. Huzur Cad. No 9 /\n Daire 2 Kadıköy", "kind": "multiline", "box": [90, 252, 980, 352]},
+      {"key": "T.C. Kimlik No", "value": "20000000012", "box": [90, 404, 690, 475]},
+      {"key": "Açıklama", "value": "Servis kaydı açıldı,\n kullanıcıya aynı gün geri dönüş yapılacak,\n e-posta notu sisteme işlendi.", "kind": "multiline", "box": [90, 536, 1110, 640]}
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "checkpoint": "20260318_192107_formai_pre_api_release_ready_checkpoint",
+  "archived_at": "2026-03-26T15:43:21.737030",
+  "archive_root": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260318_192107_formai_pre_api_release_ready_checkpoint",
+  "items": [
+    {
+      "kind": "file",
+      "name": "validation_summary.json",
+      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260318_192107_formai_pre_api_release_ready_checkpoint/validation_summary.json",
+      "size_bytes": 5484,
+      "sha256": "fb9439abcefe2ba4b8c9d38f76df15d5e8450111e96bc7b07fd65088e2e3b22d"
+    },
+    {
+      "kind": "file",
+      "name": "test_results.txt",
+      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260318_192107_formai_pre_api_release_ready_checkpoint/test_results.txt",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "kind": "file",
+      "name": "project_snapshot.tar.gz",
+      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260318_192107_formai_pre_api_release_ready_checkpoint/project_snapshot.tar.gz",
+      "size_bytes": 5568720,
+      "sha256": "33152cd2d35e28d703d818e1253533933169d74d2e2dc51d5887c7522907bd64"
+    },
+    {
+      "kind": "file",
+      "name": "ornek_real_pipeline_final_v23.pdf",
+      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260318_192107_formai_pre_api_release_ready_checkpoint/ornek_real_pipeline_final_v23.pdf",
+      "size_bytes": 41895,
+      "sha256": "2bc523c92b602dda9cadb323c599bf580fc9194cedf7e88453b5790c2f0e8dde"
+    },
+    {
+      "kind": "file",
+      "name": "project_snapshot.sha256",
+      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260318_192107_formai_pre_api_release_ready_checkpoint/project_snapshot.sha256",
+      "size_bytes": 194,
+      "sha256": "8668edf21370d72fc03fa2f0ae6dff5a5c24e25276d3e258ea97b1d86fcaf465"
+    },
+    {
+      "kind": "file",
+      "name": "fir_release_pack_summary.json",
+      "archived_path": "/Users/emirhanfirtina/Desktop/yeniP/tmp/archive/20260326_154321/checkpoints/20260318_192107_formai_pre_api_release_ready_checkpoint/fir_release_pack_summary.json",
+      "size_bytes": 865,
+      "sha256": "7740975931aac38591ec06eee1932966d0acc3adf6fe8b09fad37ce67439162c"
+    }
+  ]
+}

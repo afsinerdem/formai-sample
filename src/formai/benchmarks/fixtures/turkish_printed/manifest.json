@@ -1,0 +1,77 @@
+[
+  {
+    "sample_id": "turkish_printed:test:application_form_001",
+    "split": "test",
+    "page": {"width": 1240, "height": 1754, "style": "printed"},
+    "guides": [
+      {"points": [90, 192, 1110, 192]},
+      {"points": [90, 332, 1110, 332]},
+      {"points": [90, 472, 1110, 472]},
+      {"points": [90, 612, 1110, 612]},
+      {"points": [90, 752, 1110, 752]}
+    ],
+    "content": [
+      {"text": "Ad Soyad: Ayşe Demir", "x": 90, "y": 138, "size": 34},
+      {"text": "Adres: Atatürk Mah. Mehtap Sok. No: 14 D: 3 Kadıköy / İstanbul", "x": 90, "y": 278, "size": 29},
+      {"text": "Başvuru Tarihi: 24.03.2026", "x": 90, "y": 418, "size": 30},
+      {"text": "T.C. Kimlik No: 10000000018", "x": 90, "y": 558, "size": 30},
+      {"text": "Açıklama: Müşteri yeni poliçe başvurusu için eksik belge listesini istedi.\nEvrak teslimi e-posta ile teyit edildi.", "x": 90, "y": 680, "size": 27}
+    ],
+    "expected_fields": [
+      {"key": "Ad Soyad", "value": "Ayşe Demir", "box": [90, 120, 560, 185]},
+      {"key": "Adres", "value": "Atatürk Mah. Mehtap Sok. No: 14 D: 3 Kadıköy / İstanbul", "box": [90, 260, 1120, 325]},
+      {"key": "Başvuru Tarihi", "value": "24.03.2026", "box": [90, 400, 660, 465]},
+      {"key": "T.C. Kimlik No", "value": "10000000018", "box": [90, 540, 650, 605]},
+      {"key": "Açıklama", "value": "Müşteri yeni poliçe başvurusu için eksik belge listesini istedi.\nEvrak teslimi e-posta ile teyit edildi.", "kind": "multiline", "box": [90, 670, 1110, 752]}
+    ]
+  },
+  {
+    "sample_id": "turkish_printed:test:claim_form_002",
+    "split": "test",
+    "page": {"width": 1240, "height": 1754, "style": "printed"},
+    "guides": [
+      {"points": [90, 220, 1110, 220]},
+      {"points": [90, 360, 1110, 360]},
+      {"points": [90, 500, 1110, 500]},
+      {"points": [90, 640, 1110, 640]}
+    ],
+    "content": [
+      {"text": "Müşteri Adı: Burak Kaya", "x": 90, "y": 165, "size": 34},
+      {"text": "Telefon / GSM: 0532 555 44 33", "x": 90, "y": 305, "size": 30},
+      {"text": "E-posta: burak.kaya+hasar@example.com", "x": 90, "y": 445, "size": 29},
+      {"text": "Olay Özeti: Araç park halindeyken sağ arka tamponda çizik fark edildi.\nFotoğraflar aynı gün sisteme yüklendi.", "x": 90, "y": 570, "size": 27}
+    ],
+    "expected_fields": [
+      {"key": "Müşteri Adı", "value": "Burak Kaya", "box": [90, 145, 560, 215]},
+      {"key": "Telefon / GSM", "value": "0532 555 44 33", "box": [90, 285, 620, 355]},
+      {"key": "E-posta", "value": "burak.kaya+hasar@example.com", "box": [90, 425, 820, 495]},
+      {"key": "Olay Özeti", "value": "Araç park halindeyken sağ arka tamponda çizik fark edildi.\nFotoğraflar aynı gün sisteme yüklendi.", "kind": "multiline", "box": [90, 555, 1110, 650]}
+    ]
+  },
+  {
+    "sample_id": "turkish_printed:test:consent_form_003",
+    "split": "test",
+    "page": {"width": 1240, "height": 1754, "style": "printed"},
+    "guides": [
+      {"points": [90, 220, 1110, 220]},
+      {"points": [90, 360, 1110, 360]},
+      {"points": [90, 500, 1110, 500]},
+      {"points": [90, 640, 1110, 640]},
+      {"points": [90, 780, 1110, 780]}
+    ],
+    "content": [
+      {"text": "Çalışan: Selin Yıldız", "x": 90, "y": 165, "size": 34},
+      {"text": "Departman: Operasyon / Saha", "x": 90, "y": 305, "size": 30},
+      {"text": "Başlangıç Tarihi: 01.04.2026", "x": 90, "y": 445, "size": 30},
+      {"text": "Onay: Yes", "x": 90, "y": 585, "size": 30},
+      {"text": "Notlar: Evrak teslimi tamamlandı,\nkurumsal hesap ve kart erişimi oluşturulacak.", "x": 90, "y": 710, "size": 27}
+    ],
+    "expected_fields": [
+      {"key": "Çalışan", "value": "Selin Yıldız", "box": [90, 145, 560, 215]},
+      {"key": "Departman", "value": "Operasyon / Saha", "box": [90, 285, 680, 355]},
+      {"key": "Başlangıç Tarihi", "value": "01.04.2026", "box": [90, 425, 680, 495]},
+      {"key": "Onay", "value": "Yes", "kind": "checkbox", "box": [90, 565, 280, 635]},
+      {"key": "Notlar", "value": "Evrak teslimi tamamlandı,\nkurumsal hesap ve kart erişimi oluşturulacak.", "kind": "multiline", "box": [90, 695, 1110, 785]}
+    ]
+  }
+]

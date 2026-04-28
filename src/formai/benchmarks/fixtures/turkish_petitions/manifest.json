@@ -1,0 +1,144 @@
+[
+  {
+    "sample_id": "turkish_petitions:test:student_petition_001",
+    "split": "test",
+    "page": {"width": 1240, "height": 1754, "style": "printed"},
+    "guides": [
+      {"points": [100, 260, 1120, 260]},
+      {"points": [100, 340, 1120, 340]},
+      {"points": [100, 420, 1120, 420]},
+      {"points": [100, 500, 1120, 500]},
+      {"points": [100, 720, 1120, 720]},
+      {"points": [100, 1160, 1120, 1160]}
+    ],
+    "content": [
+      {"text": "ÖĞRENCİ DİLEKÇE FORMU / STUDENT PETITION FORM", "x": 100, "y": 90, "size": 34},
+      {"text": "Tarih: 15.10.2024", "x": 860, "y": 170, "size": 26},
+      {"text": "Öğrenci No: 2024101001", "x": 100, "y": 230, "size": 28},
+      {"text": "Ad Soyad: Ahmet Yılmaz", "x": 100, "y": 310, "size": 28},
+      {"text": "Cep Telefon No: 0532 123 45 67", "x": 100, "y": 390, "size": 28},
+      {"text": "E-Posta Adresi: a.yilmaz@email.com", "x": 100, "y": 470, "size": 28},
+      {"text": "Ders Kodu: BIL 301", "x": 100, "y": 580, "size": 28},
+      {"text": "Dersin Adı: Veri Yapıları ve Algoritmalar", "x": 380, "y": 580, "size": 28},
+      {"text": "AKTS: 6", "x": 930, "y": 580, "size": 28},
+      {"text": "Öğrencinin Açıklaması: Tek ders sınavına girmek istiyorum.\nMezuniyet için yalnızca bu dersim kaldı.", "x": 100, "y": 760, "size": 26},
+      {"text": "Danışman Görüşü: Öğrencinin mezuniyeti için tek dersi kalmıştır.\nSınava girmesi uygundur.", "x": 100, "y": 1200, "size": 26}
+    ],
+    "expected_fields": [
+      {"key": "tarih", "value": "15.10.2024", "box": [840, 150, 1110, 220]},
+      {"key": "ogrenci_no", "value": "2024101001", "box": [100, 210, 530, 280]},
+      {"key": "ad_soyad", "value": "Ahmet Yılmaz", "box": [100, 290, 620, 360]},
+      {"key": "telefon", "value": "0532 123 45 67", "box": [100, 370, 660, 440]},
+      {"key": "e_posta", "value": "a.yilmaz@email.com", "box": [100, 450, 760, 520]},
+      {"key": "ders_kodu", "value": "BIL 301", "box": [100, 560, 320, 625]},
+      {"key": "ders_adi", "value": "Veri Yapıları ve Algoritmalar", "box": [360, 560, 910, 625]},
+      {"key": "akts", "value": "6", "box": [920, 560, 1020, 625]},
+      {"key": "ogrenci_aciklamasi", "value": "Tek ders sınavına girmek istiyorum.\nMezuniyet için yalnızca bu dersim kaldı.", "kind": "multiline", "box": [100, 745, 1120, 960]},
+      {"key": "danisman_gorusu", "value": "Öğrencinin mezuniyeti için tek dersi kalmıştır.\nSınava girmesi uygundur.", "kind": "multiline", "box": [100, 1185, 1120, 1360]}
+    ]
+  },
+  {
+    "sample_id": "turkish_petitions:test:student_petition_002",
+    "split": "test",
+    "page": {"width": 1240, "height": 1754, "style": "printed"},
+    "guides": [
+      {"points": [100, 260, 1120, 260]},
+      {"points": [100, 340, 1120, 340]},
+      {"points": [100, 420, 1120, 420]},
+      {"points": [100, 500, 1120, 500]}
+    ],
+    "content": [
+      {"text": "ÖĞRENCİ DİLEKÇE FORMU / STUDENT PETITION FORM", "x": 100, "y": 90, "size": 34},
+      {"text": "Tarih: 03.02.2025", "x": 860, "y": 170, "size": 26},
+      {"text": "Öğrenci No: 2022100456", "x": 100, "y": 230, "size": 28},
+      {"text": "Ad Soyad: Zeynep Kaya", "x": 100, "y": 310, "size": 28},
+      {"text": "Cep Telefon No: 0541 222 88 10", "x": 100, "y": 390, "size": 28},
+      {"text": "E-Posta Adresi: zeynep.kaya@ogr.dogus.edu.tr", "x": 100, "y": 470, "size": 28},
+      {"text": "Öğrencinin Açıklaması: Kayıt dondurma talebim sağlık raporu nedeniyle yapılmaktadır.\nEk belgeler dilekçeye eklenmiştir.", "x": 100, "y": 620, "size": 26}
+    ],
+    "expected_fields": [
+      {"key": "tarih", "value": "03.02.2025", "box": [840, 150, 1110, 220]},
+      {"key": "ogrenci_no", "value": "2022100456", "box": [100, 210, 530, 280]},
+      {"key": "ad_soyad", "value": "Zeynep Kaya", "box": [100, 290, 620, 360]},
+      {"key": "telefon", "value": "0541 222 88 10", "box": [100, 370, 660, 440]},
+      {"key": "e_posta", "value": "zeynep.kaya@ogr.dogus.edu.tr", "box": [100, 450, 950, 520]},
+      {"key": "ogrenci_aciklamasi", "value": "Kayıt dondurma talebim sağlık raporu nedeniyle yapılmaktadır.\nEk belgeler dilekçeye eklenmiştir.", "kind": "multiline", "box": [100, 605, 1120, 820]}
+    ]
+  },
+  {
+    "sample_id": "turkish_petitions:test:student_petition_003",
+    "split": "test",
+    "page": {"width": 1240, "height": 1754, "style": "printed"},
+    "guides": [
+      {"points": [100, 260, 1120, 260]},
+      {"points": [100, 340, 1120, 340]},
+      {"points": [100, 420, 1120, 420]},
+      {"points": [100, 500, 1120, 500]}
+    ],
+    "content": [
+      {"text": "ÖĞRENCİ DİLEKÇE FORMU / STUDENT PETITION FORM", "x": 100, "y": 90, "size": 34},
+      {"text": "Tarih: 24.03.2026", "x": 860, "y": 170, "size": 26},
+      {"text": "Öğrenci No: 2018101001", "x": 100, "y": 230, "size": 28},
+      {"text": "Ad Soyad: Elif Demir", "x": 100, "y": 310, "size": 28},
+      {"text": "E-Posta Adresi: elif.demir@std.dogus.edu.tr", "x": 100, "y": 390, "size": 28},
+      {"text": "Danışman Görüşü: Öğrenci staj muafiyet talebinde bulunmaktadır.\nİlgili belgelerin incelenmesi uygundur.", "x": 100, "y": 540, "size": 26}
+    ],
+    "expected_fields": [
+      {"key": "tarih", "value": "24.03.2026", "box": [840, 150, 1110, 220]},
+      {"key": "ogrenci_no", "value": "2018101001", "box": [100, 210, 530, 280]},
+      {"key": "ad_soyad", "value": "Elif Demir", "box": [100, 290, 620, 360]},
+      {"key": "e_posta", "value": "elif.demir@std.dogus.edu.tr", "box": [100, 370, 980, 440]},
+      {"key": "danisman_gorusu", "value": "Öğrenci staj muafiyet talebinde bulunmaktadır.\nİlgili belgelerin incelenmesi uygundur.", "kind": "multiline", "box": [100, 525, 1120, 700]}
+    ]
+  },
+  {
+    "sample_id": "turkish_petitions:test:student_petition_multi_004",
+    "split": "test",
+    "pages": [
+      {
+        "page_number": 1,
+        "width": 1240,
+        "height": 1754,
+        "style": "printed",
+        "guides": [
+          {"points": [100, 260, 1120, 260]},
+          {"points": [100, 340, 1120, 340]},
+          {"points": [100, 420, 1120, 420]}
+        ],
+        "content": [
+          {"text": "ÖĞRENCİ DİLEKÇE FORMU / STUDENT PETITION FORM", "x": 100, "y": 90, "size": 34},
+          {"text": "Tarih: 11.11.2025", "x": 860, "y": 170, "size": 26},
+          {"text": "Öğrenci No: 2023100877", "x": 100, "y": 230, "size": 28},
+          {"text": "Ad Soyad: Deniz Arslan", "x": 100, "y": 310, "size": 28}
+        ],
+        "expected_fields": [
+          {"key": "tarih", "value": "11.11.2025", "page_number": 1, "box": [840, 150, 1110, 220]},
+          {"key": "ogrenci_no", "value": "2023100877", "page_number": 1, "box": [100, 210, 530, 280]},
+          {"key": "ad_soyad", "value": "Deniz Arslan", "page_number": 1, "box": [100, 290, 620, 360]}
+        ]
+      },
+      {
+        "page_number": 2,
+        "width": 1240,
+        "height": 1754,
+        "style": "printed",
+        "guides": [
+          {"points": [100, 260, 1120, 260]},
+          {"points": [100, 340, 1120, 340]},
+          {"points": [100, 420, 1120, 420]},
+          {"points": [100, 500, 1120, 500]}
+        ],
+        "content": [
+          {"text": "Cep Telefon No: 0533 111 22 33", "x": 100, "y": 170, "size": 28},
+          {"text": "E-Posta Adresi: deniz.arslan@ogr.dogus.edu.tr", "x": 100, "y": 250, "size": 28},
+          {"text": "Danışman Görüşü: Ders kaydı güncellemesi uygundur.\nİkinci sayfadaki bilgiler tamamdır.", "x": 100, "y": 390, "size": 26}
+        ],
+        "expected_fields": [
+          {"key": "telefon", "value": "0533 111 22 33", "page_number": 2, "box": [100, 150, 680, 220]},
+          {"key": "e_posta", "value": "deniz.arslan@ogr.dogus.edu.tr", "page_number": 2, "box": [100, 230, 980, 300]},
+          {"key": "danisman_gorusu", "value": "Ders kaydı güncellemesi uygundur.\nİkinci sayfadaki bilgiler tamamdır.", "kind": "multiline", "page_number": 2, "box": [100, 375, 1120, 560]}
+        ]
+      }
+    ]
+  }
+]
